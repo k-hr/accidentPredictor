@@ -20,7 +20,7 @@ import io.reactivex.ObservableSource;
 import io.reactivex.disposables.Disposable;
 import io.reactivex.functions.Function;
 
-public class DeviceLocationDataStore {
+public class    DeviceLocationDataStore {
 
     private static final String TAG = "DeviceLocationDataStore";
 

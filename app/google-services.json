@@ -1,52 +1,45 @@
 {
   "project_info": {
-    "project_number": "1045868149854",
-    "firebase_url": "https://track-my-location-6d39f.firebaseio.com",
-    "project_id": "track-my-location-6d39f",
-    "storage_bucket": "track-my-location-6d39f.appspot.com"
+    "project_number": "676708526689",
+    "firebase_url": "https://track-my-location-f0644.firebaseio.com",
+    "project_id": "track-my-location-f0644",
+    "storage_bucket": "track-my-location-f0644.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1045868149854:android:41656a612353c689",
+        "mobilesdk_app_id": "1:676708526689:android:55670a0c3f57a3455e9820",
         "android_client_info": {
           "package_name": "com.github.abdularis.trackmylocation"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1045868149854-n59pd4984p4lf7c0skik9j87kk3pn999.apps.googleusercontent.com",
+          "client_id": "676708526689-9bh89fhfqc8f4cndcrt3ojm60ujsljis.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.github.abdularis.trackmylocation",
-            "certificate_hash": "ca7a81d67dce2743e9bff704af2f2460912b9019"
+            "certificate_hash": "257996c5d1bcc596f95a4b3d8f1bac15a466775b"
           }
         },
         {
-          "client_id": "1045868149854-7hhrrq16fsbm22d961m9r5apr268676g.apps.googleusercontent.com",
+          "client_id": "676708526689-btgnv1nsqphce6c1buqata2k7i511pda.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCtr1afx2l0kHJ1gH6gLU86-4sgz6_WsyU"
+          "current_key": "AIzaSyCSzx9vgP4rpuh6k24BVdYrv5uLPXgnuYg"
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 2,
           "other_platform_oauth_client": [
             {
-              "client_id": "1045868149854-7hhrrq16fsbm22d961m9r5apr268676g.apps.googleusercontent.com",
+              "client_id": "676708526689-btgnv1nsqphce6c1buqata2k7i511pda.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
-        },
-        "ads_service": {
-          "status": 2
         }
       }
     }

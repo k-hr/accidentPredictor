@@ -1,14 +1,9 @@
-# Track My Location
+# Accident Predictor
 This is a simple android app where you can brodcast your location and everyone who has your dynamically generated unique key can track you in near real-time.
 
 I created this project just for learning puposes particularly about firebase (firestore db), google maps api and google location api.
 
 - [Backend (Firebase Cloud Functions)](https://github.com/abdularis/Track-My-Location_Cloud-Functions)
-
-***
-### Screenshots
-![](images/screenshots.jpg)
-
 
 ***
 ### References
@@ -24,8 +19,6 @@ I created this project just for learning puposes particularly about firebase (fi
 
 ***
 ### How it works?
-![](images/hiw.png)
-
 - The first device get continous location update from gps, network etc. then
 - Write and update the location data to a specific firebase firestore document
 - Last, the second device read that firebase firestore document and show the marker in that location
